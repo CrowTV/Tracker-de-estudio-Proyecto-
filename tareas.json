@@ -1,0 +1,76 @@
+{
+  "tareas": [
+    {
+      "nombre_estudiante": "Carlos Chayya",
+      "materia": "Programacion",
+      "tarea": "Py+JSON",
+      "sesiones_necesarias": 4,
+      "sesiones_completadas": 3,
+      "fecha_creacion": "2026-03-07T15:47:27.558411",
+      "duracion_minutos": 1
+    },
+    {
+      "nombre_estudiante": "Carlos Chayya",
+      "materia": "Matematicas",
+      "tarea": "Coordenadas polares",
+      "sesiones_necesarias": 5,
+      "sesiones_completadas": 1,
+      "fecha_creacion": "2026-03-09T19:03:05.827521",
+      "duracion_minutos": 1
+    },
+    {
+      "nombre_estudiante": "Maria Diaz",
+      "materia": "Investigacion",
+      "tarea": "Metodologias",
+      "sesiones_necesarias": 7,
+      "sesiones_completadas": 0,
+      "fecha_creacion": "2026-03-09T19:10:48.047557",
+      "duracion_minutos": 1
+    },
+    {
+      "nombre_estudiante": "Carlos Chayya",
+      "materia": "q",
+      "tarea": "q",
+      "sesiones_necesarias": 3,
+      "sesiones_completadas": 0,
+      "fecha_creacion": "2026-03-09T19:52:08.778289",
+      "duracion_minutos": 1
+    }
+  ],
+  "usuarios": {
+    "Carlos Chayya": {
+      "sesiones_totales": 3,
+      "minutos_totales": 3,
+      "sesiones": [
+        {
+          "timestamp": "2026-03-09T19:04:18.889281",
+          "duracion_minutos": 1
+        },
+        {
+          "timestamp": "2026-03-10T02:29:38.484229",
+          "duracion_minutos": 1
+        },
+        {
+          "timestamp": "2026-03-10T02:55:06.240966",
+          "duracion_minutos": 1
+        }
+      ],
+      "racha_dias": 2,
+      "ultima_sesion": "2026-03-10T02:55:06.240966",
+      "logros": [
+        "Primer estudio"
+      ],
+      "ultima_sesion_duracion": 1,
+      "horas_semana": 0.05
+    },
+    "Maria Diaz": {
+      "sesiones_totales": 0,
+      "minutos_totales": 0,
+      "sesiones": [],
+      "racha_dias": 0,
+      "ultima_sesion": null,
+      "ultima_sesion_duracion": 0,
+      "logros": []
+    }
+  }
+}
